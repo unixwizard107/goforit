@@ -1,2 +1,2 @@
 # goforit
-Book Example Chapters
+Book Example Code from the Book Go For It
