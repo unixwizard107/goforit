@@ -1,0 +1,8 @@
+package main
+
+import "fmt"
+
+func main() {
+    var message = "Hello, Привет, 你好"
+    fmt.Println(message);
+}
